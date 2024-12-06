@@ -27,7 +27,7 @@ int main(){
 		printf("1. Nhap so phan tu va gia tri cho mang\n");
 		printf("2. In ra gia tri cac phan tu trong mang theo dang (arr[0] = 1, arr[1] = 5,..)\n");
 		printf("3. Dem so luong cac so hoan hao co trong mang. Biet so hoan hao la so co tong cac uoc bang chinh no\n");
-		printf("4. Tim gia tri nho thu 2 trong mang, khong duoc sap xep mang\n");
+		printf("4. Tim gia tri lon thu 2 trong mang, khong duoc sap xep mang\n");
 		printf("5. Them mot phan tu vao vi tri ngau nhien trong mang, phan tu moi va vi tri them vao mang do nguoi dung nhap vao. Chi them phan tu do vao mang neu phan tu do chua ton tai\n");
 	    printf("6. Xoa phan tu tai vi tri cu the, nguoi dung nhap vi tri\n");
 	    printf("7. Sap xep mang theo thu tu tang dan(Bubble sort)\n");
